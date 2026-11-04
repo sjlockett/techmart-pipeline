@@ -6,6 +6,7 @@
 ![CI Pipeline](https://github.com/sjlockett/techmart-pipeline/actions/workflows/ci.yml/badge.svg)
 ![Lint](https://github.com/sjlockett/techmart-pipeline/actions/workflows/lint.yml/badge.svg)
 ![Last Commit](https://img.shields.io/github/last-commit/sjlockett/techmart-pipeline)
+![Open Issues](https://img.shields.io/github/issues/YOUR_USERNAME/YOUR_REPO)
 
 <mark>*Replace `YOUR_USERNAME/YOUR_REPO` with your details*</mark>
 
